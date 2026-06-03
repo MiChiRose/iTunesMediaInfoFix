@@ -2,6 +2,8 @@
 
 **This repository is no longer maintained.**
 
+Btw, you can still use v1.0.0 - Golden Era Release for old macs with 10.4-10.6 MacOSX
+
 The functionality of **iTunesMediaInfoFix** has been completely integrated into a new, more powerful project:
 
 ## 🚀 [iGeniusAI](https://github.com/MiChiRose/iGeniusAI)
