@@ -1,3 +1,21 @@
+# ⚠️ PROJECT ABANDONED / MOVED
+
+**This repository is no longer maintained.**
+
+The functionality of **iTunesMediaInfoFix** has been completely integrated into a new, more powerful project:
+
+## 🚀 [iGeniusAI](https://github.com/MiChiRose/iGeniusAI)
+
+Please head over to the new repository for:
+- **Combined Features:** AI Playlist Generation + Media Metadata Fixing.
+- **Better Stability:** Modular architecture and improved legacy macOS support.
+- **Latest Updates:** All future development happens there.
+
+---
+
+<details>
+<summary><b>📜 Old Project Description (Archive)</b></summary>
+
 # iTunesMediaInfoFix 
 **The ultimate restoration tool for legacy iTunes libraries.**
 
@@ -40,3 +58,5 @@ The source code and builder scripts for both versions are available in the `/Sou
 - Run `build_legacy_app.sh` to compile the Legacy edition.
 
 *Keep the legacy Mac spirit alive!*
+
+</details>
